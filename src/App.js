@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Vasco da Gama Awesome Carai!
+          Vasco da Gama Libertadores 1998
         </p>
         <a
           className="App-link"
